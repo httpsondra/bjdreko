@@ -1,0 +1,8 @@
+.git
+.gitignore
+.claude
+.playwright-mcp
+runs
+scratchpad
+**/.DS_Store
+README.md
